@@ -8,9 +8,6 @@ In what seems to be a design choice in Python, even if no Save Games are moved, 
 However, there is no need to be alarmed, as it will always move your Save Games if they are really located in the original location it reports.
 This incident will only happen if no Save Games exist at the original location.
 
-## Downloads ##
-All downloads are available on the [Releases](https://github.com/le717/ICU-ReDirect/releases) page.
-
 ## License ##
 Created 2012-2013 [Triangle717](http://le717.github.io/)
 
